@@ -27,11 +27,11 @@ I'm Aje S David 🤓, a practicing Data Analyst | Cybersecurity analyst in view 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://sirajeman-max/portfolio-1/file:///"C:/Users/AWAN/Desktop/SIR%20AJE/DOC/MY%20to%20use%20CV.pdf">Download my CV</a></td>
+      <td><a href="https://sirajeman-max/portfolio-1/file:">ownload my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a brief="https://"linkedin.com/in/saater-aje-7b2833321">coming up on LinkedIn</a></td>
+      <td><a brief="https://linkedin.com/in/saater-aje-7b2833321">coming up on LinkedIn</a></td>
 
 
 
