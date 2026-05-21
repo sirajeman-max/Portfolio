@@ -1,6 +1,6 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
-I'm Aje S David 🤓, A practicing Data Analyst | Cybersecurity analyst in view | Proficient graphics designer
+I'm Aje S David 🤓, a practicing Data Analyst | Cybersecurity analyst in view | Proficient graphics designer
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 *Analytics skills:-SQL (advanced), Python, Power BI, Excel✔ Desktop Publishing✔ Graphics.*
