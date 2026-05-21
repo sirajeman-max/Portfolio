@@ -27,7 +27,7 @@ I'm Aje S David 🤓, a practicing Data Analyst | Cybersecurity analyst in view 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://sirajeman-max/portfolio-1/file:">ownload my CV</a></td>
+      <td><a href="https://sirajeman-max/portfolio-1/file:">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
