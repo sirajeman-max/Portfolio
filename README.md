@@ -1,6 +1,6 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
-I'm Aje S David 🤓, a practicing Data Analyst | Cybersecurity analyst in view | Expert in Desktop publishing
+I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practicing Data Analyst | Cybersecurity analyst in view | Expert in Desktop publishing
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 *Analytics skills:-SQL (advanced), Python, Power BI, Excel✔ Desktop Publishing✔ Graphics.*
