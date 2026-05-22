@@ -27,7 +27,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://sirajeman-max/portfolio-1/file:">Download my CV</a></td>
+      <td><a href="MY to use CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
