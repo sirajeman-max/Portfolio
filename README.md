@@ -11,7 +11,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
 *A look of some of the projects I've been working on.*
 ** My project using AutoStyle Ltd, for sales increase.**
 
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](AutoStyle Analytics DASHBOARD.JPG)
 
 
 [Read More](https://Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/)
