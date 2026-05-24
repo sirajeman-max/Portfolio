@@ -14,7 +14,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/)
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the full report here (pdf file)</a>
 
