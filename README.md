@@ -3,7 +3,7 @@
 I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practicing Data Analyst | Cybersecurity analyst in view | Expert in Desktop publishing
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
-*Analytics skills:-SQL (advanced), Python, Power BI, Excel✔ Desktop Publishing✔ Graphics.*
+*Analytics skills:-SQL (advanced), Python, Power BI, Excel.*
 **- ✅ Data Cleaning and Transformation.**
 **- ✅ Data Wrangling.**. 
 <!--Section 2: List 3-4 key projects-->
@@ -11,7 +11,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
 *A look of some of the projects I've been working on.*
 ** My project using AutoStyle Ltd, for sales increase.**
 ![image]([AutoStyle Analytics DASHBOARD.JPG](https://github.com/sirajeman-max/Portfolio/blob/1679160ef05d1587dbf9647e3f64367dee59e199/AutoStyle%20Analytics%20DASHBOARD.JPG))
-[Read More](https://Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/)
+[Read More]([https://Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/](https://github.com/sirajeman-max/Portfolio/blob/d42619aea65dbcbe3bcec81e97e50672ee16791e/Auto-Style-Ltd-2020-Sales-Analysispdf.pdf))
 ## CONTACT DETAILS
 *Let’s get in touch!*
 <table>
