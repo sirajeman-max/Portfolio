@@ -10,16 +10,8 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
 ## MY COMING UP PROJECTS 
 *A look of some of the projects I've been working on.*
 ** My project using AutoStyle Ltd, for sales increase.**
-
 ![image](AutoStyle Analytics DASHBOARD.JPG)
-
 [Read More](https://Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/)
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the full report here (pdf file)</a>
-
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
 ## CONTACT DETAILS
 *Let’s get in touch!*
 <table>
