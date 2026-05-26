@@ -11,7 +11,8 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
 *A look of some of the projects I've been working on.*
 ** My project using AutoStyle Ltd, for sales increase.**
 ![image]([AutoStyle Analytics DASHBOARD.JPG](https://github.com/sirajeman-max/Portfolio/blob/1679160ef05d1587dbf9647e3f64367dee59e199/AutoStyle%20Analytics%20DASHBOARD.JPG))
-[Read More]([https://[Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/](https://github.com/sirajeman-max/Portfolio/blob/d42619aea65dbcbe3bcec81e97e50672ee16791e/Auto-Style-Ltd-2020-Sales-Analysispdf.pdf)](https://github.com/sirajeman-max/Portfolio/blob/2129161f2a6c2f971b19902d185b7f761f1477c1/Auto-Style-Ltd-2020-Sales-Analysispdf.pdf))
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
 ## CONTACT DETAILS
 *Let’s get in touch!*
 <table>
