@@ -13,7 +13,6 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
 
 ![image](AutoStyle Analytics DASHBOARD.JPG)
 
-
 [Read More](https://Auto-Style-Ltd-2020-Sales-Analysispdf.pdf/)
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the full report here (pdf file)</a>
