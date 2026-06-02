@@ -35,7 +35,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practic
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a brief="https://linkedin.com/in/saater-aje-7b2833321">coming up on LinkedIn</a></td>
+      <td><a brief="https://linkedin.com/in/saater-aje-7b2833321">Available on LinkedIn</a></td>
 
 
 
