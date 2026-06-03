@@ -32,7 +32,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practit
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="DataAnalyst_CV 1.pdf">Download my CV</a></td>
+      <td><a href="DataAnalyst_CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
