@@ -10,9 +10,10 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practit
 <!--Section 2: List 3-4 key projects-->
 ## MY COMING UP PROJECTS 
 *A look of some of the projects I've been working on.*
-** My project using AutoStyle Ltd, for sales increase.**
+** My project IN EXCEL using AutoStyle Ltd, for sales increase.**
 ![image]([AutoStyle Analytics DASHBOARD.JPG](https://github.com/sirajeman-max/Portfolio/blob/1679160ef05d1587dbf9647e3f64367dee59e199/AutoStyle%20Analytics%20DASHBOARD.JPG))
 [Read More](https://www.linkedin.com/in/saater-aje-7b2833321/recent-activity/all//)
+** My project  IN POWER BI using Hospital Operational data_set to give a Descriptive Analytics Report.**
 ![image]([Dashboard HOSPITAL OPERATION.pdf])
 [Read More](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468075412846350336//)
 
