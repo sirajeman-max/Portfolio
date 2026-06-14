@@ -49,7 +49,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practit
         <title>My Site!</title>
     </head>
     <body>
-        <h1 style="color: blue;">This is my GitHub Pages Website!</h1>
+        <h1 style = "color: blue;">This is my GitHub Pages Website!</h1>
         <h2>Sexy Next of Kin shey na my site you talk say e no dey active???</h2>
     </body>
 </html>
