@@ -8,7 +8,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practit
 **- ✅ Data Wrangling.**. 
 **- ✅ AI Automation.**.
 <!--Section 2: List 3-4 key projects-->
-## MY COMING UP PROJECTS 
+## MY READY UP COMING PROJECTS 
 *A look of some of the projects I've been working on.*
 ** My project IN EXCEL using AutoStyle Ltd, for sales increase.**
 ![image]([AutoStyle Analytics DASHBOARD.JPG](https://github.com/sirajeman-max/Portfolio/blob/1679160ef05d1587dbf9647e3f64367dee59e199/AutoStyle%20Analytics%20DASHBOARD.JPG))
