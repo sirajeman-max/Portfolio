@@ -15,7 +15,7 @@ I'm Aje S David 🤓, a certified Electrical and Electronics Engineer, a practit
 [Read More](https://www.linkedin.com/in/saater-aje-7b2833321/recent-activity/all//)
 
 ** My project  IN POWER BI using Hospital Operational data_set to give a Descriptive Analytics Report.**
-![image]([dash HOSP.OPT.jpg](https://github.com/sirajeman-max/Portfolio/blob/main/dash%20HOSP.OPT.jpg))
+![image]superstore_ FULLY CAPTURED dashboard.jpeg
 [Read More](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468075412846350336//)
 
 ** My project  IN PYTHON using Superstore Dataset to carry out a Statistical Analytics report (Chi-square test).**
